@@ -4,8 +4,6 @@ tar -xf binutils-2.43.1.tar.xz
 
 cd binutils-2.43.1
 
-bad_command_name
-
 mkdir -v build
 cd       build
 
