@@ -15,4 +15,4 @@ rm usr/include/Makefile
 cp -rv usr/include $LFS/usr
 
 cd $LFS/sources
-rm -rf linux-6.10.5.tar.xz
+rm -rf linux-6.10.5
